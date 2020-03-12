@@ -15,6 +15,8 @@ For example, if you execute the batch file Fig5panN64.bat it will create the pan
 
 The R file:  paperFigures.R has a large number of example functions that produce the figures (and additional material) for the paper.  Note that the default paths used in these functions assume that the folder containing the data is Spacefixed/output/*.  
 
-** Note ** I will supply all the batch files if this is required for publication, although I do feel that if a researcher wants to validate the model they should build some tests, etc. for themselves.  The main aspect to validate is the c
+** Note ** I will supply all the batch files if this is required for publication, although I do feel that if a researcher wants to validate the model they should build some tests, etc. for themselves.  The main aspect to validate is the C code for the HR model.
+
+** Note ** The output folder was too large for github and so is compressed as output.zip.  
 
   
